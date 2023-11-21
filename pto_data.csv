@@ -1,0 +1,11 @@
+Employee ID,Current PTO Balance (days),Tenure (years),Industry,PTO Policy Description,Salary (USD),State,Annual PTO Allocation (days),Utilization Rate (%),Median Industry Tenure (years),PTO at Separation (days)
+1,10,3,Tech,Standard,70000,CA,15,70,5,12
+2,5,2,Finance,Generous,80000,NY,20,60,6,8
+3,8,4,Health,Standard,60000,TX,12,50,7,6
+4,12,5,Tech,Limited,90000,CA,10,80,5,15
+5,7,1,Retail,Generous,40000,FL,18,65,4,10
+6,6,3,Finance,Standard,75000,NY,15,75,6,7
+7,9,6,Health,Limited,65000,TX,10,55,7,5
+8,11,7,Tech,Generous,85000,CA,20,85,5,18
+9,4,2,Retail,Standard,45000,FL,14,60,4,9
+10,15,8,Finance,Limited,95000,NY,12,70,6,11
